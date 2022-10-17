@@ -1,0 +1,15 @@
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.csproj.AssemblyReference.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.AssemblyInfoInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.AssemblyInfo.cs
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.csproj.CoreCompileInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\bin\Debug\net7.0\Even.exe
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\bin\Debug\net7.0\Even.deps.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\bin\Debug\net7.0\Even.runtimeconfig.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\bin\Debug\net7.0\Even.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\bin\Debug\net7.0\Even.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\refint\Even.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\Even.genruntimeconfig.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Even\obj\Debug\net7.0\ref\Even.dll

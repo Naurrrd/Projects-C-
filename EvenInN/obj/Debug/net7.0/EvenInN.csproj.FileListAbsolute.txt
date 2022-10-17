@@ -1,0 +1,15 @@
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\bin\Debug\net7.0\EvenInN.exe
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\bin\Debug\net7.0\EvenInN.deps.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\bin\Debug\net7.0\EvenInN.runtimeconfig.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\bin\Debug\net7.0\EvenInN.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\bin\Debug\net7.0\EvenInN.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.csproj.AssemblyReference.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.AssemblyInfoInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.AssemblyInfo.cs
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.csproj.CoreCompileInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\refint\EvenInN.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\EvenInN.genruntimeconfig.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\EvenInN\obj\Debug\net7.0\ref\EvenInN.dll

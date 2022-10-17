@@ -1,0 +1,15 @@
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\bin\Debug\net7.0\BignSmall.exe
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\bin\Debug\net7.0\BignSmall.deps.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\bin\Debug\net7.0\BignSmall.runtimeconfig.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\bin\Debug\net7.0\BignSmall.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\bin\Debug\net7.0\BignSmall.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.csproj.AssemblyReference.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.AssemblyInfoInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.AssemblyInfo.cs
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.csproj.CoreCompileInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\refint\BignSmall.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\BignSmall.genruntimeconfig.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\BignSmall\obj\Debug\net7.0\ref\BignSmall.dll

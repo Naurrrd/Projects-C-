@@ -1,0 +1,15 @@
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\bin\Debug\net7.0\Max.exe
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\bin\Debug\net7.0\Max.deps.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\bin\Debug\net7.0\Max.runtimeconfig.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\bin\Debug\net7.0\Max.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\bin\Debug\net7.0\Max.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.csproj.AssemblyReference.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.AssemblyInfoInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.AssemblyInfo.cs
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.csproj.CoreCompileInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\refint\Max.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\Max.genruntimeconfig.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz1\Max\obj\Debug\net7.0\ref\Max.dll
