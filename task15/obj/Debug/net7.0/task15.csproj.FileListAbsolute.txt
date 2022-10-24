@@ -1,0 +1,15 @@
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\bin\Debug\net7.0\task15.exe
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\bin\Debug\net7.0\task15.deps.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\bin\Debug\net7.0\task15.runtimeconfig.json
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\bin\Debug\net7.0\task15.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\bin\Debug\net7.0\task15.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.csproj.AssemblyReference.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.AssemblyInfoInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.AssemblyInfo.cs
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\refint\task15.dll
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.pdb
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\task15.genruntimeconfig.cache
+C:\Users\Naurddd\Desktop\ГБ обучение\c# projets\dz2\task15\obj\Debug\net7.0\ref\task15.dll
