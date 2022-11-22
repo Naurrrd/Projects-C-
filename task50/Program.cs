@@ -47,7 +47,6 @@ void FindNumberInArray(int[,] array)
                 count++;
             }
         }
-        // Console.WriteLine();
     }
     if (count == 0) {Console.Write("Такого числа в массиве нет");}
 }
